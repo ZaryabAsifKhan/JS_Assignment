@@ -419,7 +419,7 @@ number, uppercase letter or lower case letter. (Hint: ASCII codes:- A=65, Z=90, 
 // “Incorrect password” otherwise.
 
 // CODE:
-// let password = "zakwebdev15";
+// let password = "zakstorm15";
 // let user= prompt("Enter your Password");
 // if(user === ""){
 //     alert("Password Not Found");
